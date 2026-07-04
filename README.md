@@ -2,20 +2,22 @@
 
 # Renfo.studio
 
-**Детские портреты в образах. Пакетно.**
+**English** · [Русский](README.ru.md)
 
-Приложение для фотографов (Windows, macOS): загружаете кадры со съёмки,
-назначаете костюмы (супергерои, принцессы, фэнтези, космос, профессии),
-на выходе — файлы 1792×2400 под печать 15×20 см при 300 dpi и PSD со слоями
-для ретуши. Лицо берётся с исходного кадра и не редактируется.
+**Costumed kids' portraits. In batches.**
 
-<img src="docs/img/hero-spider.jpg" alt="Пример генерации — паучий герой" width="360">
+An app for photographers (Windows, macOS): load frames from the shoot,
+assign costumes (superheroes, princesses, fantasy, space, professions),
+get 1792×2400 files for 6×8″ prints at 300 dpi plus layered PSD for
+retouching. The face comes from the original frame and is not edited.
 
-> Ребёнок на изображении — синтетический, сгенерирован ИИ; такого человека не существует.
+<img src="docs/img/hero-spider.jpg" alt="Sample generation — spider hero" width="360">
 
-- **Сайт:** https://markbrutx.github.io/renfo-studio/
-- **Скачать (Windows / macOS):** https://github.com/markbrutx/renfo-studio/releases/latest
+> The child in this image is AI-generated; no such person exists.
 
-Стек: Tauri 2 · Rust · React · TypeScript · Zustand · fal.ai · Supabase · GitHub Actions.
+- **Website:** https://markbrutx.github.io/renfo-studio/
+- **Download (Windows / macOS):** https://github.com/markbrutx/renfo-studio/releases/latest
 
-Этот репозиторий содержит релизы и артефакты автообновления.
+Stack: Tauri 2 · Rust · React · TypeScript · Zustand · fal.ai · Supabase · GitHub Actions.
+
+This repository hosts releases and auto-update artifacts.
